@@ -1,3 +1,6 @@
 New Platform Project
 this is 2nd line
 this is 3rd line
+New Platform Project
+this is 2nd line
+this is 3rd line
