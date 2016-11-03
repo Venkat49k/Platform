@@ -4,3 +4,4 @@ tagged file3
 tagged file4
 tagged file5
 tagged file6
+tagged file7
